@@ -51,7 +51,18 @@ for result in result_os.split('\n'):
 
 ### Вывод скрипта при запуске при тестировании:
 ```
-к сожалению у меня по техническим причинам не получилось получить вывод
+admin@noutebook:~/python$ ./3py
+On branch main
+Your branch is ahead of 'bitbuket/main' by 4 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .idea/
+        2.py
+        3.py
+
+nothing added to commit but untracked files present (use "git add" to track)
 ```
 
 ## Обязательная задача 3
