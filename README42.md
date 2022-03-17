@@ -51,7 +51,7 @@ for result in result_os.split('\n'):
 
 ### Вывод скрипта при запуске при тестировании:
 ```
-
+к сожалению у меня по техническим причинам не получилось получить вывод
 ```
 
 ## Обязательная задача 3
@@ -95,11 +95,11 @@ admin@noutbook:~/python$ ./dz2.py ~/devops-netology/
 
 admin@noutbook:~/python$ ./dz2.py ~/devops-net/
 
-/bin/sh: 1: cd: can't cd to /home/alex/devops-net/
+/bin/sh: 1: cd: can't cd to /home/admin/devops-net/
 
 admin@noutbook:~/python$ ./dz2.py
 
- Каталог /home/alex/python не является GIT репозиторием
+ Каталог /home/admin/python не является GIT репозиторием
 ```
 
 ## Обязательная задача 4
